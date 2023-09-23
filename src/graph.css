@@ -1,0 +1,41 @@
+
+
+body{
+margin: 0px;
+padding: px;
+box-sizing: border-box;
+}
+
+.container{
+  width: 90%;
+  height: 500px;
+  margin-left: 80px;
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px 10px gray;
+  
+}
+
+.btn button{
+  margin-left: 10px;
+  width: 80px;
+  height: 40px;
+  color: white;
+  background-color: gray;
+  border: none;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.btn button:hover{
+  margin-left: 10px;
+  cursor: pointer;
+  width: 80px;
+  height: 40px;
+  color: white;
+  background-color: rgb(56, 55, 55);
+  border: none;
+  border-radius: 8px;
+  margin-bottom: 10px;
+
+}
